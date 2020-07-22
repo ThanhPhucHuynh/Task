@@ -9,6 +9,6 @@
  <!-- *   * -->
     [ ] Task 2 of Challenge code (HackerRank) 
     [ ] Learn GSap continuous
-
-
+## Night
+    [ ] Power PI lesson 1 - 2
 <!-- test hah -->
