@@ -1,3 +1,4 @@
+color b
 d:
 cd D:\Data\drive\CTU\task
 git add .
