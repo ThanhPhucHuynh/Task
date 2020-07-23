@@ -2,13 +2,11 @@
 
 ## Morning
  <!-- *   * -->
-    [ ] Listening Part 4 (Toeic P4)
-    [ ] Complete Part 6 ... 
-    [ ] Continuous with Part 7
+    [X] Listening Past 4 (Toeic P4)
+    [X] Complete Past 6 ... 
+    [V] Continuous with Past 7
 ## Noon
  <!-- *   * -->
     [ ] Task 2 of Challenge code (HackerRank) 
     [ ] Learn GSap continuous
-## Night
-    [ ] Power PI lesson 1 - 2
-<!-- test hah -->
+    
