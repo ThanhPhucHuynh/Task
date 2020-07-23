@@ -8,5 +8,5 @@
 ## Noon
  <!-- *   * -->
     [x] Task 2 of Challenge code (HackerRank) 
-    [ ] Learn GSap continuous
-    
+    [x] Learn GSap continuous
+## relax :>>>>
