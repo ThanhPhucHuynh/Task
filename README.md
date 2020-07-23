@@ -10,3 +10,8 @@
     [x] Task 2 of Challenge code (HackerRank) 
     [x] Learn GSap continuous
 ## relax :>>>>
+## tonight
+    [ ] choose one template reactNative
+    [ ] choose one template Gsap
+    [ ] learn English 
+
