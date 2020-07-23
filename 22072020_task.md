@@ -7,6 +7,6 @@
     [V] Continuous with Past 7
 ## Noon
  <!-- *   * -->
-    [ ] Task 2 of Challenge code (HackerRank) 
+    [x] Task 2 of Challenge code (HackerRank) 
     [ ] Learn GSap continuous
     
