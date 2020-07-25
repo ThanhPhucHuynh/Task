@@ -11,7 +11,7 @@
     [x] Learn GSap continuous
 ## relax :>>>>
 ## tonight
-    [ ] choose one template reactNative
-    [ ] choose one template Gsap
-    [ ] learn English 
+    [X] choose one template reactNative
+    [X] choose one template Gsap
+    [X] learn English 
 
