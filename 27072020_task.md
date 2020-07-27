@@ -9,7 +9,7 @@
 		[S] Reading
 ## Noon
 	      <!-- *   * -->
-	[ ] Code navigator ReactNative
+	[X] Code navigator ReactNative
 ## relax :>>
 ## tonight
 	....
