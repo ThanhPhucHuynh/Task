@@ -1,4 +1,4 @@
 ## task
 	[ ] Learning English
-	[ ] Learn Code 
+	[ ] Learn Code and hankker rank 
 	[ ] Watch Netflix
